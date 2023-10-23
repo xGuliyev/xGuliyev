@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mn4vxymzp3tx57buqs4mlzlwfm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mn4vxymzp3tx57buqs4mlzlwfm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mn4vxymzp3tx57buqs4mlzlwfm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31mn4vxymzp3tx57buqs4mlzlwfm&redirect=true)
 
 
 # 💫 About Me:
