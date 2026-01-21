@@ -52,9 +52,8 @@ I'm **Famil Quliyev** | فامил قليييف | Фамиль Гулиев — 
 ---
 
 ## Connect
-- Email: [add your email]
-- Telegram: [@add_username]
-- LinkedIn: [add your LinkedIn]
+- Email: sumdevaz@gmail.com  
+- Telegram:@sumdevaz
 - GitHub: [@sumdevaz](https://github.com/sumdevaz)
 
 ---
@@ -68,9 +67,5 @@ I'm **Famil Quliyev** | فامил قليييف | Фамиль Гулиев — 
 ---
 
 <div align="center">
-
-**Made with ❤️ by Famil Quliyev**
-
-*Last Updated: January 2026*
 
 </div>
