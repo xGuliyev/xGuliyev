@@ -1,6 +1,6 @@
 # Hey there! 👋 Salam!
 
-I'm **Famil Quliyev** | فامил قليييف | Фамиль Кулиев — a 4th-year software engineering student at Astrakhan State University. My online handle is **sumdevaz** everywhere.
+I'm **Famil Quliyev** | فامил قليييف | Фамиль Гулиев — a 4th-year software engineering student at Astrakhan State University. My online handle is **sumdevaz** everywhere.
 
 ---
 
